@@ -1,0 +1,1 @@
+README for WSU SC workshop
